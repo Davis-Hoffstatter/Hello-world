@@ -1,15 +1,15 @@
 # Hello-world
 First Repository
 
-## Table of Contents
-- [PROJECT TITLE]
-- [DESCRIPTION]
-- [TOOLS USED]
-- [FILES USED]
-- [HOW TO RUN PROGRAM]
-- [ADDITIONAL INFORMATION]
+## **Table of Contents**
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [ADDITIONAL INFORMATION](#additional-information)
 
-## Project Title
+## <ins>Project Title </ins>
 *Hello World Sample - My First Repository*
 
 ## Description
