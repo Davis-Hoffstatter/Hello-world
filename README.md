@@ -1,7 +1,7 @@
 # Hello-world
 First Repository
 
-**## Table of Contents**
+## **Table of Contents**
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [TOOLS USED](#Tools-Used)
